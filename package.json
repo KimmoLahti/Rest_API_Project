@@ -20,5 +20,14 @@
     "mongo": "^0.1.0",
     "mongoose": "^7.0.3",
     "node": "^19.8.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimmoLahti/Rest_API_Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KimmoLahti/Rest_API_Project/issues"
+  },
+  "homepage": "https://github.com/KimmoLahti/Rest_API_Project#readme"
 }
