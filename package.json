@@ -1,0 +1,17 @@
+{
+  "name": "rest_api_render",
+  "version": "1.0.0",
+  "description": "rest api serverilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "react"
+  ],
+  "author": "Kimmo Lahtinen",
+  "license": "ISC"
+}
